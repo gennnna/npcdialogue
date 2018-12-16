@@ -1,1 +1,1 @@
-draw_text(400,50,current_message);
+draw_text(10,10,current_message);

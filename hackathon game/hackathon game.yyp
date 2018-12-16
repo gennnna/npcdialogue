@@ -47,11 +47,27 @@
             }
         },
         {
+            "Key": "27de70d1-a2d5-4754-95a9-ec1dc69ef213",
+            "Value": {
+                "id": "0f7f0b8f-ae5d-4784-b219-df6e7ee54556",
+                "resourcePath": "sprites\\italy\\italy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "28aa3275-c972-4364-90be-f503dea63d74",
             "Value": {
                 "id": "384e0227-8fbe-4572-ae63-5b6563203041",
                 "resourcePath": "views\\28aa3275-c972-4364-90be-f503dea63d74.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "291c4616-bf75-44a9-943a-b28f333935d2",
+            "Value": {
+                "id": "53c1f55e-0557-48b8-a070-39b46e60f43c",
+                "resourcePath": "objects\\italobj\\italobj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -90,8 +106,16 @@
             "Key": "524c9508-50c6-43db-afca-3d4c788fdceb",
             "Value": {
                 "id": "8488a7f9-99d4-4f89-91e0-de8e8db7b420",
-                "resourcePath": "objects\\fillernpc\\fillernpc.yy",
+                "resourcePath": "objects\\brazilobj\\brazilobj.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5960ebf8-d35d-4371-bad2-491727aafa50",
+            "Value": {
+                "id": "69c60de5-1900-40c3-a397-3d54824536f9",
+                "resourcePath": "sprites\\china\\china.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -100,6 +124,14 @@
                 "id": "fc95c34f-9e01-46d3-99ca-c6ad1156ccc7",
                 "resourcePath": "scripts\\create\\create.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "5dbf1c2a-89d6-4ab8-9a84-074b1ebb177e",
+            "Value": {
+                "id": "9e581d0e-c7f0-4f7b-be88-2a3b1df45951",
+                "resourcePath": "sprites\\india\\india.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -162,8 +194,16 @@
             "Key": "b41ec032-8a6a-46ff-9778-f2c950c3f0c1",
             "Value": {
                 "id": "7eb252a1-85d1-4b23-a22c-1d65e2d941ad",
-                "resourcePath": "sprites\\filler\\filler.yy",
+                "resourcePath": "sprites\\brazil\\brazil.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bcc832f8-c656-488a-866e-9cb4f49dbcd3",
+            "Value": {
+                "id": "f41c1bf3-2797-4b73-8844-68ae2971a37a",
+                "resourcePath": "objects\\indiaobj\\indiaobj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -196,6 +236,14 @@
                 "id": "c0162eac-64b8-42cc-aff5-1b693d46a435",
                 "resourcePath": "views\\d0123755-74da-440d-82a9-28937cacdb04.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d64df3e0-bc5c-45b3-88d3-ef04cab91777",
+            "Value": {
+                "id": "c88a9a32-a11f-4111-84f3-1fb218c13bfa",
+                "resourcePath": "objects\\chinaobj\\chinaobj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
